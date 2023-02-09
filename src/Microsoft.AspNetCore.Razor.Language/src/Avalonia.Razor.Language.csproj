@@ -6,6 +6,10 @@
     <!-- Need to build this project in source build -->
     <ExcludeFromSourceBuild>false</ExcludeFromSourceBuild>
     <IsPackable>false</IsPackable>
+    <LangVersion>latest</LangVersion>
+    <GenerateResxSource>true</GenerateResxSource>
+    <RootNamespace>Microsoft.AspNetCore.Razor.Language</RootNamespace>
+    <AssemblyName>Avalonia.Razor.Language</AssemblyName>
   </PropertyGroup>
 
 </Project>
