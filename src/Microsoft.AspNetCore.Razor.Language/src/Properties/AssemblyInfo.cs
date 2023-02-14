@@ -4,4 +4,4 @@
 #nullable disable
 
 using System.Runtime.CompilerServices;
-[assembly: InternalsVisibleTo("Avalonia.Razor.MSBuild.Task")]
+[assembly: InternalsVisibleTo("Avalonia.Razor.Compiler")]
