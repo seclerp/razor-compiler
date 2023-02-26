@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "Microsoft.NET.Sdk.Razor.SourceGenerators": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "../../../src/ConsoleApp1/ConsoleApp1.csproj"
+    }
+  }
+}
