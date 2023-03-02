@@ -7,3 +7,4 @@ using System.Runtime.CompilerServices;
 [assembly: InternalsVisibleTo("Microsoft.AspNetCore.Mvc.Razor.Extensions")]
 [assembly: InternalsVisibleTo("Microsoft.NET.Sdk.Razor.SourceGenerators")]
 [assembly: InternalsVisibleTo("Avalonia.Razor.Compiler")]
+[assembly: InternalsVisibleTo("Avalonia.Razor.SourceGenerators")]

@@ -19,7 +19,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Microsoft.AspNetCore.Razor.Language\src\Avalonia.Razor.Language.csproj" />
-    <ProjectReference Include="..\..\Microsoft.AspNetCore.Razor.Language\src\Avalonia.Razor.Language.csproj" />
     <ProjectReference Include="..\..\Microsoft.CodeAnalysis.Razor\src\Microsoft.CodeAnalysis.Razor.csproj" />
   </ItemGroup>
 
